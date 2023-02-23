@@ -4,5 +4,5 @@ go 1.16
 
 require (
 	github.com/imdario/mergo v0.3.13
-	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
+	golang.org/x/time v0.3.0
 )
